@@ -1,0 +1,10 @@
+body {
+  font-family:Verdana, Geneva, sans-serif;
+}
+#box {
+  width:200px;
+  height:200px;
+  background-color:red;
+  display:none;
+  position:relative;
+}
